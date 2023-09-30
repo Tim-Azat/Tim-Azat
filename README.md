@@ -9,15 +9,9 @@
 - ![icons8-национальный-парк-25](https://github.com/Tim-Azat/Tim-Azat/assets/146379567/64c6c4a9-2782-467e-8f54-aad054f41ba9) &nbsp;&nbsp; Люблю активный отдых: туризм, горы, сплавы, велосипед
 
 
-### Связаться со мной можно: ![icons8-hand-down-skin-type-1-25](https://github.com/Tim-Azat/Tim-Azat/assets/146379567/0cba54c1-8436-4987-b9b3-dcf3a750d787)
+### Связаться со мной: ![icons8-hand-down-skin-type-1-25](https://github.com/Tim-Azat/Tim-Azat/assets/146379567/0cba54c1-8436-4987-b9b3-dcf3a750d787)
 <div id="badges">
   <a href="https://t.me/Tim_Azat">
-    <img src="https://img.shields.io/badge/-Telegram-red?color=white&logo=Telegram&logoColor=blue" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
