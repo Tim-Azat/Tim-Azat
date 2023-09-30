@@ -10,6 +10,7 @@
 
 
 ### Связаться со мной: ![icons8-hand-down-skin-type-1-25](https://github.com/Tim-Azat/Tim-Azat/assets/146379567/0cba54c1-8436-4987-b9b3-dcf3a750d787)
+
 <div id="badges">
   <a href="https://t.me/Tim_Azat">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="LinkedIn Badge"/>
