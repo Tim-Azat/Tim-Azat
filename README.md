@@ -11,13 +11,13 @@
 
 ### Связаться со мной можно: ![icons8-hand-down-skin-type-1-25](https://github.com/Tim-Azat/Tim-Azat/assets/146379567/0cba54c1-8436-4987-b9b3-dcf3a750d787)
 <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://t.me/Tim_Azat">
+    <img src="https://img.shields.io/badge/-Telegram-red?color=white&logo=Telegram&logoColor=blue" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/vkontakte-blue?style=for-the-badge&logo=vkontakte&logoColor=white)" alt="VK Badge"/>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
